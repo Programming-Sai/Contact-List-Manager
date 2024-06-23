@@ -64,7 +64,7 @@ Here is an example of how to use the Contact List Manager:
 
 1. **Start the Program:**
    ```sh
-   python contact_list_manager.py
+   python C_Implementation.py
    ```
 
 2. **Menu Options:**
